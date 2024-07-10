@@ -151,4 +151,98 @@ font-weight: 400;
     color:rgba(13, 19, 33 ,0.7) ;
 
 }
+.video{
+width: 1140px;
+height: 775px;
+border: 1px solid green;
+margin-top: 30px;
+margin: 0 auto;
+}
+.video-contain{
+    width: 852px;
+    height:113px ;
+    border: 1px solid blue;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.video-contain h1{
+    font-size: 38px;
+font-weight: 800;
+color: black;
+}
+.video-contain p{
+    font-size: 16px;
+font-weight: 400;
+color: rgba(13, 19, 33, 0.7);
+}
+.main-video{
+    width: 1140px;
+    height: 614px;
+    border: 1px solid  rgba(13, 19, 33, 0.2);
+    border-radius: 16px;
+}
 
+
+.icons{
+    width: 1140px;
+    height:460px ;
+    border: 1px solid blue;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+.icon-text{
+    width:996px ;
+    height:113px ;
+    border:1px solid goldenrod ;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.icon-text h1{
+    font-size: 32px;
+font-weight: 800;
+  color:rgb(13, 19, 33);
+}
+.icon-text p{
+    font-size: 16px;
+font-weight: 400;
+color: rgba(13, 19, 33, 0.7);
+}
+.icon-design{
+    font-size: 32px;
+    font-weight: 800;
+    display: flex;
+    
+    align-items: center;
+    justify-content: center;
+
+    
+}
+.html-icon{
+    width: 284px;
+    height:219px ;
+    border: 1px solid purple;
+    display: flex;
+    
+}
+.css-icon{
+    width: 284px;
+    height:219px ;
+    border: 1px solid purple;
+    margin-left: 30px;
+    display: flex
+}
+.js-icon{
+    width: 284px;
+    height:219px ;
+    border: 1px solid purple;
+    margin-left: 30px;
+    display: flex;
+}
