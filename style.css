@@ -1,0 +1,154 @@
+
+
+  *{
+    margin: 0;
+    padding: 0;
+    
+ } 
+  .poster-contanit{
+    width: 1440px;
+    height: 652px;
+    margin: 0 auto;
+    margin-top: 30px;
+    background-image: url('./images/hero.png');
+    display: flex;
+}
+.poster-box{
+    height:652px ;
+    width: 1440px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    gap:50px;
+  
+}
+.poster-box h2{
+    font-size: 45px;
+font-weight: 800;
+}
+.potter-btn{
+    width: 208px;
+    height: 66px;
+    background-color: black;
+    border-radius: 8px;
+    color:rgb(255, 255, 255) ;
+    display: flex; 
+  align-items: center;
+  justify-content: center;
+    /* text-align: center; */
+}
+.poster-box p{
+font-size: 16px;
+font-weight: 400;
+color: rgb(13, 19, 33 ,0.7);
+}
+.box-container{
+    width:1140px ;
+    height: 1395px;
+  
+    
+    margin: 0 auto;
+    margin-top: 30px;
+    display: flex;
+}
+.box-info{
+    
+width: 996px;
+height: 1253px;
+margin: 0 auto;
+margin-top: 70px;
+display: flex;
+ flex-direction: column; 
+ align-items: center;
+ justify-content: center; 
+ text-align: center;
+ gap: 30px; 
+
+}
+.textt h1{
+    font-size: 32px;
+font-weight: 800;
+ color: rgba(13, 19, 33, 0.7) ;
+}
+.textt p{
+    font-size: 16px;
+    font-weight: 400;
+   color: rgba(13, 19, 33, 0.7) 
+}
+.first-pic{
+  width: 996px;
+  height: 333px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  justify-content: space-between;
+ text-align: left;
+ 
+}
+.first-pic h3{
+    font-size: 24px;
+font-weight: 700;
+ color:rgba(13, 19, 33, 0.7);
+}
+.first-pic p{
+    font-size: 16px;
+font-weight: 400;
+color: rgba(13, 19, 33, 0.7);
+}
+
+.second-pic{
+  width: 996px;
+  height: 333px; 
+  display: flex;
+  flex-direction: row;
+  /* justify-content: center; */
+   align-items: center; 
+  text-align: left;
+  /* justify-content: space-between;   */
+}
+
+.second-box h3{
+    color: rgba(13, 19, 33, 0.7);
+    font-size: 24px;
+font-weight: 700;
+}
+.second-box p{
+    color: rgba(13, 19, 33, 0.7);
+    font-size: 16px;
+font-weight: 400;
+}
+.third-pic{
+  width: 996px;
+  height: 333px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  justify-content: space-between;
+  text-align: left; 
+}
+.third-box h3{
+    color: rgba(13, 19, 33, 0.7);
+    font-size: 24px;
+font-weight: 700;
+}
+.third-box p{
+    color: rgba(13, 19, 33, 0.7);
+    font-size: 16px;
+font-weight: 400;
+}
+.btn{
+    width: 150px;
+    height: 48px;
+    border: 1px solid rgba(13, 19, 33, 0.7) ;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color:rgba(13, 19, 33 ,0.7) ;
+
+}
+
