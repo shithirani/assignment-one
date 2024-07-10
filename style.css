@@ -190,14 +190,14 @@ color: rgba(13, 19, 33, 0.7);
 .icons{
     width: 1140px;
     height:460px ;
-    border: 1px solid blue;
+    /* border: 1px solid blue; */
     margin: 0 auto;
     margin-top: 30px;
 }
 .icon-text{
     width:996px ;
     height:113px ;
-    border:1px solid goldenrod ;
+    /* border:1px solid goldenrod ; */
     margin: 0 auto;
     display: flex;
     flex-direction: column;
@@ -216,11 +216,13 @@ font-weight: 400;
 color: rgba(13, 19, 33, 0.7);
 }
 .icon-design{
+    width: 1140px;
+    height: 347px;
     font-size: 32px;
     font-weight: 800;
+    /* border:1px solid green; */
     display: flex;
-    
-    align-items: center;
+    align-items: center; 
     justify-content: center;
 
     
@@ -228,21 +230,58 @@ color: rgba(13, 19, 33, 0.7);
 .html-icon{
     width: 284px;
     height:219px ;
-    border: 1px solid purple;
+    /* border: 1px solid purple; */
     display: flex;
+    flex-direction: column;
     
+    margin-left: 10px;
+    
+}
+.html-icon h1{
+    
+    font-size: 24px;
+font-weight: 800;
+color: rgb(13, 19, 33);
+}
+.html-icon p{
+    font-size: 16px;
+font-weight: 400;
+color: rgba(13, 19, 33, 0.7);
 }
 .css-icon{
     width: 284px;
     height:219px ;
-    border: 1px solid purple;
-    margin-left: 30px;
-    display: flex
+    /* border: 1px solid purple; */
+    margin-left: 90px;
+    display: flex;
+    flex-direction: column;
+}
+.css-icon h1{
+font-size: 24px;
+font-weight: 800;
+color: rgb(13, 19, 33);
+}
+.css-icon p{
+    font-size: 16px;
+font-weight: 400;
+color: rgba(13, 19, 33, 0.7);
 }
 .js-icon{
     width: 284px;
     height:219px ;
-    border: 1px solid purple;
+    /* border: 1px solid purple; */
     margin-left: 30px;
     display: flex;
+    flex-direction: column;
+    margin-left: 90px;
+}
+.js-icon h1{
+    font-size: 24px;
+font-weight: 800;
+color: rgb(13, 19, 33);
+}
+.js-icon p{
+    font-size: 16px;
+font-weight: 400;
+color: rgba(13, 19, 33, 0.7);
 }
