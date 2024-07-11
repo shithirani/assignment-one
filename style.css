@@ -196,9 +196,6 @@ color: rgba(13, 19, 33, 0.7);
     border-radius: 16px;
 }
 
-
-
-
 .icons{
     width: 1140px;
     height:460px ;
@@ -249,7 +246,7 @@ color: rgba(13, 19, 33, 0.7);
     display: flex;
     flex-direction: column;
     /* margin-left: 40px; */
-    background-color: rgb(155, 18, 64,0.1);
+    background-color: rgb(155, 18, 64,0.05);
     
 }
 .html-icon h1{
@@ -270,7 +267,7 @@ color: rgba(13, 19, 33, 0.7);
     margin-left: 90px;
     display: flex;
     flex-direction: column;
-    background-color:rgba(0,0,225,0.1);
+    background-color:rgba(0,0,225,0.05);
 }
 .css-icon h1{
 font-size: 24px;
@@ -290,7 +287,7 @@ color: rgba(13, 19, 33, 0.7);
     display: flex;
     flex-direction: column;
     margin-left: 90px;
-    background-color:rgb(241, 207, 10,0.1);
+    background-color:rgb(241, 207, 10,0.05);
    
     
 }
