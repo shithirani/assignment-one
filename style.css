@@ -247,6 +247,7 @@ color: rgba(13, 19, 33, 0.7);
     flex-direction: column;
     
     margin-left: 10px;
+    background-color: rgb(155, 18, 64,0.1);
     
 }
 .html-icon h1{
@@ -267,6 +268,7 @@ color: rgba(13, 19, 33, 0.7);
     margin-left: 90px;
     display: flex;
     flex-direction: column;
+    background-color:rgba(0,0,225,0.1);
 }
 .css-icon h1{
 font-size: 24px;
@@ -286,6 +288,9 @@ color: rgba(13, 19, 33, 0.7);
     display: flex;
     flex-direction: column;
     margin-left: 90px;
+    background-color:rgb(241, 207, 10,0.1);
+   
+    
 }
 .js-icon h1{
     font-size: 24px;
@@ -308,7 +313,7 @@ color: rgba(13, 19, 33, 0.7);
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 16px;
-    background: rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2),url(Email);
+    background-color: rgba(0,0,0,0.7);
   background-blend-mode: overlay;
 }
 .formal-box{
