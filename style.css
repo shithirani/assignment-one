@@ -239,14 +239,16 @@ color: rgba(13, 19, 33, 0.7);
 
     
 }
+
+
 .html-icon{
+   
     width: 284px;
     height:219px ;
     /* border: 1px solid purple; */
     display: flex;
     flex-direction: column;
-    
-    margin-left: 10px;
+    /* margin-left: 40px; */
     background-color: rgb(155, 18, 64,0.1);
     
 }
